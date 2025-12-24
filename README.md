@@ -1,7 +1,7 @@
 Visual Programming dersi için oluşturulmuş Eflatun Optik,
 Bir optik mağazasının stok yönetimini,kullanıcı giriş işlemlerini ve satış analizlerini dijital ortamda takip etmesini sağlayan bir Windows Form uygulamasıdır.
 SQLite veritabanlı bağlantılı, beni hatırla özelliği taşıyan admin ve müşteri girişli olarak ikiye ayrılmış bir uygulamadır.
-Stok durumunun pasta dilimi grafikleri (Chart kontrolü) ile görselleştirilmesi.
+Stok durumunun pasta dilimi grafikleri (Chart kontrolü) ile görselleştirilmiştir.
 Kullanılan Teknolojiler:
 - C#
 - .Net Framework
